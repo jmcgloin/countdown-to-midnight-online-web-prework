@@ -16,4 +16,3 @@ def coundtdown_with_sleep(num)
   end
   "HAPPY NEW YEAR!"
 end
-end
